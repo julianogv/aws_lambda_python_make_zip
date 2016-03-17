@@ -5,7 +5,7 @@ import shutil
 import tempfile
 import zipfile
 
-__author__ = 'juliano'
+__author__ = 'julianoo@gmail.com'
 
 
 def list_files(path, ignore_hidden=True):
